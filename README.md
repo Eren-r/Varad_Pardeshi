@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Eren | Data Science & AI Enthusiast</h1>
+  <h1 align="center">Data Science & AI Enthusiast</h1>
 </p>
 
 <p align="center">
