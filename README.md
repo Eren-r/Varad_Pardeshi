@@ -49,7 +49,7 @@ I believe in learning by building. Every repository here represents a step in my
 
 ### 📫 Connect With Me
 
-* LinkedIn: [Add Your LinkedIn]
-* Email: [Add Your Email]
+* LinkedIn: [https://www.linkedin.com/in/varad-pardeshi-a05264334?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+* Email: [pardeshivarad1@gmail.com]
 
 ⭐ Feel free to explore my repositories and follow my journey in Data Science and AI.
