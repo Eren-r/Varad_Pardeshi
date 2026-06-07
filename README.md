@@ -1,3 +1,15 @@
+<h1 align="center">
+  Aspiring Data Scientist & AI Engineer
+</h1>
+
+<p align="center">
+  Building Intelligent Systems with Machine Learning, Data Science, NLP, and Python
+</p>
+
+<p align="center">
+  Engineering Student • Open to Data Science & AI Internship Opportunities
+</p>
+
 # Hi there, I'm Varad Pardeshi 👋
 
 ### Data Science | Machine Learning | Artificial Intelligence | Python Developer
