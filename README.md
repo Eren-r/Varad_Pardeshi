@@ -78,7 +78,8 @@ I continuously strengthen my expertise through hands-on projects, practical prob
 ---
 
 ## 📂 Featured Projects
-* Project Link: 
+
+* Project Link: https://github.com/Eren-r/AI-ML_data-science_portfolio.git
 
 ---
 
