@@ -77,6 +77,11 @@ I continuously strengthen my expertise through hands-on projects, practical prob
 
 ---
 
+## 📂 Featured Projects
+* Project Link: 
+
+---
+
 ## 🎯 Career Objectives
 
 * Secure a Data Science / Machine Learning Internship
